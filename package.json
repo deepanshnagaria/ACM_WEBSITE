@@ -1,0 +1,42 @@
+{
+  "name": "mdg-website",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://mdg.iitr.ac.in/",
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "bootstrap": "^4.3.1",
+    "d3-fetch": "^1.1.2",
+    "gh-pages": "^2.1.0",
+    "mdi-material-ui": "^5.10.0",
+    "node-modules": "^1.0.1",
+    "react": "^16.7.0",
+    "react-bootstrap": "^1.0.0-beta.10",
+    "react-dom": "^16.7.0",
+    "react-ga": "^2.6.0",
+    "react-markdown": "^4.0.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "serve": "^11.0.0",
+    "yaml-loader": "^0.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build --git git -r git@github.com:mdg-iitr/mdg-iitr.github.io.git -b master",
+    "eject": "react-scripts eject",
+    "heroku-postbuild": "npm run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

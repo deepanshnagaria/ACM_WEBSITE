@@ -1,0 +1,45 @@
+[
+    
+    {
+        "title": "Intro to Game Development",
+        "date": "2018-07-21",
+        "author": "Sachin Jain",
+        "desc": "An overview of how game development works and varius roles involved. ",
+        "link": "https://medium.com/@deepanshnagaria/intro-to-game-development-205193f5c66f",
+        "image": "intro_to_game.jpg"
+    },
+
+    {
+        "title": "Getting started with Game Dev",
+        "date": "2018-07-21",
+        "author": "Sachin Jain",
+        "desc": "Making your first video game is a fun experience in its own. The hope of making it all work and playing yourself one day along with the regular.",
+        "link": "https://medium.com/@deepanshnagaria/getting-started-with-game-dev-2e1f32b9105b",
+        "image": "game.png"
+    },
+    {
+        "title": "Introduction to Cryotography",
+        "date": "2018-07-23",
+        "author": "Prateek Roushan",
+        "desc": "From the ancient times, the transfer of the information from one place to another securely was the great challenge. Cryptography is not a new term. The concepts of cryptography had also been...",
+        "link": "https://medium.com/@deepanshnagaria/introduction-to-cryotography-db00920ed302",
+        "image": "intro_to_crypto.jpg"
+    },
+    {
+        "title": "Intro to Competitive Programming",
+        "date": "2018-07-21",
+        "author": "Vinay Aggarwal",
+        "desc": "Many of you might have heard about the term Competitive Programming and would have wondered what it actually means. I am writing this blog to provide a brief intro to it as well as tell you about the requirements to start pursuing it.",
+        "link": "https://medium.com/@deepanshnagaria/intro-to-competitive-programming-6ac5eebcc0c2",
+        "image": "introduction-to-competitive-programming-1-638.jpg"
+    },
+
+    {
+        "title": "Basic Number Theory",
+        "date": "2018-06-23",
+        "author": "Vinay Aggarwal",
+        "desc": "A lecture(sorta) on basic number theory and lets you know how to proeced forward.",
+        "link": "https://medium.com/@deepanshnagaria/basic-number-theory-451d73d4d57f",
+        "image": "introduction-to-number-theory.PNG"
+    }
+]

@@ -1,0 +1,113 @@
+Projects:
+- title: "Appetizer"
+  cardImage: #TODO
+  image: #TODO
+  shortDesc: >
+    See mess menu and real-time 
+    notifications and skip a meal you 
+    are not excited about.
+  desc: #TODO
+  creators:
+   - name: "Harjot Oberoi"
+     githubId: https://github.com/harjot-oberai
+     role: "Developer"
+     image: #TODO
+    
+   - name: "Kush Taneja"
+     githubId: https://github.com/kushtaneja
+     role: "Product Manager"
+     image: #TODO
+   
+   - name: "Chirag Maheswari"
+     githubId: https://github.com/csoni111
+     role: "Backend Developer"
+     image: # TODO
+    
+   - name: "Akshay Kumawat"
+     githubId: https://github.com/Akshay-Kumawat
+     role: "Product Designer"
+     image: #TODO
+  otherLinks: #TODO
+
+- title: "Music DNA"
+  cardImage: #TODO
+  image: #TODO
+  shortDesc: >
+   Combining music player with 
+   amazing DNAs generated based on 
+   the music being played
+  desc: #TODO
+  creators:
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+  
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+  otherLinks: 
+   - googlePlay: https://play.google.com/store/apps/details?id=com.sdsmdg.harjot.MusicDNA&hl=en
+
+- title: "Campus Buddy"
+  cardImage: #TODO
+  image: #TODO
+  shortDesc: >
+    An Assistant ot serch Telephone 
+    Directory of IITR and get updates 
+    from facebook feed of campus group
+  desc: #TODO
+  creators:
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+  
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+  otherLinks: 
+   - googlePlay: https://play.google.com/store/apps/details?id=in.co.mdg.campusBuddy&hl=en
+
+- title: "TEDx IIT Roorkee"
+  cardImage: #TODO
+  image: #TODO
+  shortDesc: >
+    An app for the annual event 
+    organized at IIT Roorkee aimed at 
+    fostering entrepreneurship
+  desc: #TODO
+  creators:
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+   
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+  otherLinks: #TODO
+
+- title: Splitter
+  cardImage: #TODO
+  image: #TODO
+  shortDesc: >
+    Enjoy a fast paced game with 
+    stunning graphics. Easy to learn but 
+    hard to master! 
+  desc: #TODO
+  creators:
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+   
+   - name: #TODO
+     githubId: #TODO
+     role: #TODO
+     image: #TODO
+  otherLinks: 
+    - googlePlay: https://play.google.com/store/apps/details?id=com.mdg.splitter&hl=en

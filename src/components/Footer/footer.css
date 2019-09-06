@@ -1,0 +1,10 @@
+.Footer {
+    background-image: linear-gradient(to right, #1488CC , #2B60F0);
+    color: #ffffff;
+   
+    width: 100%;
+    padding: 8px;
+    bottom: 0;
+    
+    text-align: center;
+  }
