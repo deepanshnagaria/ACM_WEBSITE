@@ -159,28 +159,12 @@ class HomePage extends Component {
             spacing={24}
             style={{ alignItems: "center", }}>
             <Grid item xs={12} sm={8} md={6} className={classes.headerText}>
-              <h1 style={{ fontWeight: "lighter", fontSize: '40px' }}> A place where</h1>
-              <h1 style={{ marginTop: "-20px", fontSize: '40px' }}>Ideas meet Reality</h1>
+              <h1 style={{ fontWeight: "lighter", fontSize: '40px' }}> ACM IITR</h1>
+              <h1 style={{ marginTop: "-20px", fontSize: '40px' }}>Association of Computing Machinery</h1>
               <p>
-                We at <b>Mobile Development Group</b> create products to make
-                experience of people at IITR easy
+              The IIT Roorkee ACM Student Chapter is an official student body incepted in 2014 under the aegis of Department of Computer Science and Engineering, IIT Roorkee. The chapter aims at uniting the computing fraternity at IIT Roorkee under one tag and allows the students to learn together and share their knowledge to cater the interests of the individuals as well as the institute as a whole. The chapter organizes a plethora of events which cover most of the fields of the computer science domain. These include hackathons, guest lectures, workshops, coding contests etc. which give the students an exposure to the competitive computing world as well as allow them to understand the advancements going on in the computing sphere worldwide. The primary mission of the IIT Roorkee ACM students Chapter is to provide a series of lectures, events, and a platform to bring together computing enthusiasts across the campus to promote the education and professional development of the student.
             </p>
-            <a style={{ textDecoration: 'none',color:'#FFFFFF' }} target="_blank" href="http://mdg.iitr.ac.in/chat">
-            <Fab
-              variant="extended"
-              color="primary"
-              style={{
-               margin: classes.margin, 
-               fontSize: "0.725rem", marginTop: '20px', marginBottom: '20px'
-              }}
-              aria-label="Add"
-              className="Footer"
-            >
             
-              <Typography style={{ paddingRight: '20px', paddingLeft: "20px", color: "white"}} variant='caption'>Have chat with us</Typography>
-              
-            </Fab>
-            </a>
             </Grid>
             <Grid item xs={12} sm={4} md={6}>
               <img src={homeicon} alt={"home icon"} className={classes.imageAlign}/>
